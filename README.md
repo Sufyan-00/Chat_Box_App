@@ -1,6 +1,6 @@
 # Chat Box
 
-A modern Android chat application built with Kotlin and Jetpack Compose. **UNYTED.CHAT** provides user onboarding, authentication, OTP verification, password recovery, profile setup, conversations, real-time messaging, and profile management.
+A modern Android chat application built with Kotlin and Jetpack Compose. **Chat Box** provides user onboarding, authentication, OTP verification, password recovery, profile setup, conversations, real-time messaging, and profile management.
 
 The application communicates with a backend through REST APIs and WebSockets. Authentication tokens are stored locally, pending messages can be queued, and conversation names are cached to improve the user experience.
 
